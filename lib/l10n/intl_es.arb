@@ -1,0 +1,33 @@
+{
+  "welcome_note": "Bienvenue à nouveau sur RoboBank",
+  "username": "Nom d'utilisateur",
+  "password": "Mot de passe",
+  "login": "S'identifier",
+  "sign_in": "Créer un compte",
+  "welcome_message": "Content de te revoir",
+  "offline_bot": "\nParler à Mimi ?",
+  "forgot_password": "Mot de passe oublié?",
+  "sign_up": "Vous n'avez pas de compte ?",
+  "create_account": "Créer un compte",
+  "sign_in_text": "S'identifier",
+  "dont_have_account": "Vous n'avez pas de compte ?",
+  "type_message": "Veuillez saisir votre message ici",
+  "transfers": "Transferts",
+  "airtime": "Temps d'antenne\n",
+  "services": "Prestations de service\n",
+  "chatbot": "ChatBot",
+  "card_number": "Numéro de carte",
+  "account_type": "Type de compte",
+  "created_on": "Créé sur",
+  "recent_transactions": "transactions récentes",
+
+  "make_transfers": "Effectuez tous vos transferts ic",
+  "destination_bank": "Banque de destination",
+  "ben_account_number": "numéro de compte du bénificiare",
+  "ben_full_name": "Nom complet du bénéficiaire",
+  "amount": "Montante",
+
+  "internal_transfers": "Transferts internes",
+  "external_transfers": "Transferts externes",
+  "transactions": "Transactions"
+}

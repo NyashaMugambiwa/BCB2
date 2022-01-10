@@ -1,0 +1,62 @@
+{
+  "welcome_note": "Welcome back on RoboBank",
+  "username": "Username",
+  "password": "Password",
+  "login": "Sign In",
+  "sign_in": "Create Account",
+  "welcome_message": "Welcome back",
+  "offline_bot": "Talk to Mimi?",
+  "forgot_password": "Forgot your password?",
+  "sign_up": "Don't have an account?",
+  "create_account": "Create Account",
+  "sign_in_text": "Sign In",
+  "dont_have_account": "Don't have an account?",
+  "roboBank_title": "Robo Banking ChatBot",
+  "transfers": "Transfers",
+  "airtime": "Airtime",
+  "services": "Services",
+  "chatbot": "ChatBot",
+  "card_number": "Card Number",
+  "account_type": "Account Type",
+  "created_on": "Created on",
+  "recent_transactions": "Recent Transactions",
+  "make_transfers": "Make All Your Transfers Here",
+  "destination_bank": "Destination Bank",
+  "ben_account_number": "Beneficiary Account Number",
+  "ben_full_name": "Beneficiary Full Name",
+  "amount": "Amount",
+  "internal_transfers": "Internal Transfers",
+  "external_transfers": "External Transfers",
+  "transactions": "Transactions",
+
+  "type_message": "Please type your message here",
+
+  "offline_chatBot_welcome_note": "Hello our potential customer, you have questions related to our banking services right? You are lost lost buddy, just let us know how you want us to assist you today by choose clicking a number that corresponds to the question you want to ask\n",
+  "offline_chatBot_fs1": "1. How can i open an account",
+  "offline_chatBot_fs2": "2. How long does it take to open an account ?",
+  "offline_chatBot_fs3": "3. What type of accounts can i open with your bank?",
+  "offline_chatBot_fs4": "4. What do i need to open an account ?",
+
+  "offline_chatBot_main_menu": "RoboBank Main Menu",
+  "offline_chatBot_subMenu1": "Follow the steps below to open an account",
+  "offline_chatBot_sb1option1": "Download and install the mobile application in your smart device",
+  "offline_chatBot_sb1option2": "Run the application",
+  "offline_chatBot_sb1option3": "Login and click the link in blue at the bottom center of the login page",
+  "offline_chatBot_sb1option4": "Fill in the fields with your valid details",
+  "offline_chatBot_sb1ReturnHome": "Press # to return to the main menu",
+
+
+  "offline_chatBot_subMenu2": "Account Creation Duration",
+  "offline_chatBot_sb2option1": "Once you follow through the registration process, and provide all your personal details that we ask from you, you will only need to wait for 4 hours as we wait for validation your identity",
+
+
+
+
+  "offline_chatBot_subMenu3": "Types Of Accounts you can open",
+  "offline_chatBot_sb3option1": "Once you follow through the registration process, and provide all your personal details that we ask from you, you will only need to wait for 4 hours as we wait for validation your identity",
+  "offline_chatBot_sb3option2": "Run the application",
+  "offline_chatBot_sb3option3": "Login and click the link in blue at the bottom center of the login page",
+  "offline_chatBot_sb3option4": "Fill in the fields with your valid details",
+  "offline_chatBot_sb3ReturnHome": "Press # to return to the main menu"
+
+}
